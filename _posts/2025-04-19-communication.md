@@ -5,6 +5,7 @@ description: "Silence often comes from fear, not uncertainty. And that delay qui
 tags: [communication, relationships, thinking]
 slug: communication-at-the-edge
 ---
+![communication](/assets/images/communication.jpg)
 
 Communication is not optional.
 
