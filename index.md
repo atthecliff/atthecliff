@@ -1,4 +1,7 @@
 # atthecliff
+---
+title: ""
+---
 
 ![hero](/assets/images/hero.jpg)
 
