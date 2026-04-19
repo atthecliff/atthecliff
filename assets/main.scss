@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+/* GLOBAL STYLE */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: #f7f7f7;
+  color: #222;
+  line-height: 1.7;
+}
+
+/* TITLE */
+.site-title {
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+/* HEADINGS */
+h1, h2, h3 {
+  font-weight: 500;
+}
+
+/* CONTENT WIDTH */
+.wrapper {
+  max-width: 720px;
+}
+
+/* POST TITLES */
+.post-title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+/* LINKS */
+a {
+  color: #444;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* IMAGE STYLE */
+img {
+  border-radius: 4px;
+  margin: 20px 0;
+}
