@@ -1,51 +1,37 @@
----
----
-
-@import "minima";
-
-/* GLOBAL STYLE */
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  background-color: #f7f7f7;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.8;
+  background: #f8f8f8;
   color: #222;
-  line-height: 1.7;
 }
 
-/* TITLE */
+/* Title */
 .site-title {
-  font-size: 28px;
-  font-weight: 600;
+  font-size: 26px;
   letter-spacing: 1px;
 }
 
-/* HEADINGS */
-h1, h2, h3 {
-  font-weight: 500;
+/* Headings */
+h1 {
+  font-size: 34px;
 }
 
-/* CONTENT WIDTH */
+h2 {
+  margin-top: 40px;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 18px;
+}
+
+/* Content width */
 .wrapper {
-  max-width: 720px;
+  max-width: 680px;
 }
 
-/* POST TITLES */
-.post-title {
-  font-size: 32px;
-  font-weight: 600;
-}
-
-/* LINKS */
+/* Links */
 a {
-  color: #444;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* IMAGE STYLE */
-img {
-  border-radius: 4px;
-  margin: 20px 0;
+  color: #333;
 }
