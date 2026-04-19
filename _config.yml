@@ -1,3 +1,5 @@
 title: atthecliff
 description: thoughts at the edge of clarity
 theme: minima
+baseurl: "/atthecliff"
+url: "https://atthecliff.github.io"
