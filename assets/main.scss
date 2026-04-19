@@ -1,3 +1,9 @@
+---
+---
+
+@import "minima";
+
+/* BODY */
 body {
   font-family: Georgia, serif;
   font-size: 18px;
@@ -6,41 +12,49 @@ body {
   color: #222;
 }
 
-/* Title */
+/* PAGE WIDTH */
+.wrapper {
+  max-width: 680px;
+}
+
+/* SITE TITLE */
 .site-title {
   font-size: 26px;
   letter-spacing: 1px;
 }
 
-/* Headings */
+/* HEADINGS */
 h1 {
   font-size: 34px;
+  margin-bottom: 10px;
 }
 
 h2 {
   margin-top: 40px;
 }
 
-/* Paragraph spacing */
+/* POST TITLE */
+.post-title {
+  font-size: 36px;
+}
+
+/* TEXT */
 p {
   margin-bottom: 18px;
 }
 
-/* Content width */
-.wrapper {
-  max-width: 680px;
-}
-
-.post-content {
-  font-size: 19px;
-}
-
-.post-title {
-  font-size: 36px;
-  margin-bottom: 10px;
-}
-
-/* Links */
+/* LINKS */
 a {
   color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* IMAGES */
+img {
+  margin: 25px 0;
+  border-radius: 4px;
 }
