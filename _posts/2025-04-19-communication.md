@@ -4,6 +4,7 @@ date: 2025-04-19
 description: "Silence often comes from fear, not uncertainty. And that delay quietly damages clarity, relationships, and decisions."
 tags: [communication, relationships, thinking]
 slug: communication-at-the-edge
+layout: post
 ---
 ![communication](/assets/images/communication.jpg)
 
