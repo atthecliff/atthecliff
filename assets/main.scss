@@ -8,44 +8,35 @@ body {
   font-family: Georgia, serif;
   font-size: 18px;
   line-height: 1.8;
-  background: #f8f8f8;
+  background: #f4f4f4;
   color: #222;
 }
 
-/* PAGE WIDTH */
+/* WIDTH */
 .wrapper {
-  max-width: 680px;
+  max-width: 700px;
 }
 
-/* SITE TITLE */
+/* HEADER */
 .site-title {
-  font-size: 26px;
+  font-size: 22px;
   letter-spacing: 1px;
 }
 
 /* HEADINGS */
 h1 {
-  font-size: 34px;
-  margin-bottom: 10px;
+  font-size: 32px;
 }
 
 h2 {
   margin-top: 40px;
-}
-
-/* POST TITLE */
-.post-title {
-  font-size: 36px;
-}
-
-/* TEXT */
-p {
-  margin-bottom: 18px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
 }
 
 /* LINKS */
 a {
-  color: #333;
+  color: #2a5db0;
   text-decoration: none;
 }
 
@@ -53,8 +44,13 @@ a:hover {
   text-decoration: underline;
 }
 
-/* IMAGES */
+/* IMAGE */
 img {
   margin: 25px 0;
-  border-radius: 4px;
+  border-radius: 6px;
+}
+
+/* POST TITLE */
+.post-title {
+  font-size: 34px;
 }
