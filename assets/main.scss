@@ -58,18 +58,37 @@ img {
 .post-nav {
   display: flex;
   justify-content: space-between;
-  margin-top: 40px;
-  padding-top: 20px;
-  border-top: 1px solid #ddd;
-  font-size: 14px;
+  gap: 40px;
+  margin-top: 60px;
+  padding-top: 25px;
+  border-top: 1px solid #e5e5e5;
 }
 
+/* LEFT / RIGHT */
+.nav-left, .nav-right {
+  width: 48%;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+/* LABEL */
+.nav-label {
+  font-size: 12px;
+  color: #999;
+  text-transform: lowercase;
+  margin-bottom: 6px;
+}
+
+/* LINKS */
 .post-nav a {
-  color: #666;
-  max-width: 45%;
+  font-size: 15px;
+  color: #222;
+  text-decoration: none;
 }
 
 .post-nav a:hover {
-  color: #000;
+  text-decoration: underline;
 }
 
