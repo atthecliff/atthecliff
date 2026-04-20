@@ -3,5 +3,5 @@ description: thoughts at the edge of clarity
 theme: minima
 url: "https://atthecliff.com"
 baseurl: ""
-
 paginate: 0
+show_excerpts: false
