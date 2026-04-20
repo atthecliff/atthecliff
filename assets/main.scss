@@ -54,3 +54,22 @@ img {
 .post-title {
   font-size: 34px;
 }
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.post-nav a {
+  color: #666;
+  max-width: 45%;
+}
+
+.post-nav a:hover {
+  color: #000;
+}
+
