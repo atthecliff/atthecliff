@@ -14,7 +14,7 @@ body {
 
 /* WIDTH */
 .wrapper {
-  max-width: 700px;
+  max-width: 620px;
 }
 
 /* HEADER */
@@ -52,8 +52,11 @@ img {
 
 /* POST TITLE */
 .post-title {
-  font-size: 34px;
+  font-size: 38px;
+  line-height: 1.2;
+  margin-bottom: 12px;
 }
+
 
 .post-nav {
   display: flex;
@@ -92,3 +95,21 @@ img {
   text-decoration: underline;
 }
 
+.post-content p {
+  margin-bottom: 22px;
+}
+
+blockquote {
+  border-left: 3px solid #ddd;
+  padding-left: 12px;
+  color: #666;
+  font-style: italic;
+}
+
+.site-header {
+  border-bottom: none;
+}
+
+.site-footer {
+  border-top: none;
+}
