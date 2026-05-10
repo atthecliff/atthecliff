@@ -5,7 +5,7 @@ layout: post
 permalink: /five-year-loop/
 ---
 
-![future](/assets/images/fiveyears.jpg)
+![future](/assets/images/five years.jpg)
 
 A thought that stayed with me recently:
 
