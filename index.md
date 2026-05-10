@@ -21,6 +21,7 @@ title: ""
 
 ## recent
 
+- [your next five years are already being shaped](/five-year-loop/)
 - [most things break because we don’t say them](/communication/)
 - [friendship works because it has no single definition](/friends/)
 - [not every idea travels well across cultures](/culture/)
